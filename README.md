@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11/Iceland26/fortune-cookie-ai-agent/rank.svg)](https://make.fun/bounty/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11)
 [![reward](https://make.fun/badge/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11/Iceland26/fortune-cookie-ai-agent/reward.svg)](https://make.fun/bounty/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11)
 
-A tiny program that writes one fortune-cookie line for an AI agent to /output/entry.txt — a prophecy about silent upgrades, in a single crisp line of 73 characters.
+A tiny program that writes one fortune-cookie line for an AI agent to /output/entry.txt — a prophecy about silent upgrades, in a single crisp line of 72 characters.
 
 ## Run it
 
